@@ -6,3 +6,25 @@
     <title>Document</title>
     <link rel="stylesheet" href="s.css">
 </head>
+<div class="h-screen w-screen bg-black flex" >
+    <div class="h-full w-6/12 bg-blue-300">
+        <h1 class="font-semibold text-9xl mx-20" > PDHAI <br>LIKHAAI <br>KRLE <br>
+    MERE
+            <br>
+            <span class="text-red-500 font-bold text-9xl">
+             DOSTTT <div> <button class="text-green-600 text-2xl bg-black border-s-violet-500 mx-2 py-2 rounded-xl m-4
+                ">kl se pdhuga</button></div>
+            </span>
+        
+            <br></h1>
+    </div>
+    
+    <div class="h-full w-6/12 bg-red-200">
+   <img src ="https://i.pinimg.com/originals/a1/7e/7c/a17e7c2ab4f89609fb2d65590b63152e.jpg" alt="" class="h-full w-full object-fill">
+</div>
+
+</div>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+</body>
+</html>
